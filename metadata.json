@@ -1,0 +1,6 @@
+{
+  "name": "File compressor",
+  "description": "Compress photos and PDF files to your exact target output size in KB or MB directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
